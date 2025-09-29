@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+## Screenshots
+![Screenshot 1](screenshot1.jpg)
+![Screenshot 2](screenshot2.jpg)
+![Screenshot 3](screenshot3.jpg)
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nudurumatisowryakowtilya23it-cmd/foodshare-app.git
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
